@@ -16,7 +16,6 @@ import preloader from "../src/utils/preloader";
 
 import createTheme from "../src/themes/default";
 
-
 require("normalize.css");
 require("../src/themes/default/index.css");
 
