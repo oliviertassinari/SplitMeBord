@@ -3,3 +3,5 @@ dist
 lib
 *.log
 *.DS_Store
+*.sublime-project
+*.sublime-workspace
